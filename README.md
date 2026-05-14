@@ -1,4 +1,4 @@
-# 🌬️ Vape E-Commerce Frontend Platform
+# Qwikr E-Commerce Frontend Platform
 
 An enterprise-grade e-commerce storefront designed for high performance, scalability, and a seamless user experience. As the lead frontend engineer, my primary focus was architecting a resilient frontend application and establishing a robust API integration layer that ensures real-time data synchronization, aggressive caching, and a flawless checkout pipeline.
 
